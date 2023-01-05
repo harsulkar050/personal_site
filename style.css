@@ -1,0 +1,35 @@
+body {
+    background-color: #d4fde2;
+}
+
+.para{
+    color:brown;
+}
+
+#contactme{
+    color: red;
+}
+
+hr {
+    border-color: grey;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 4px;
+    width: 10%;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+}
+
+h1{
+    color:#009EFF
+}
+h3{
+    color: #863A6F;
+}
+
+h4{
+    color:#009EFF;
+}
